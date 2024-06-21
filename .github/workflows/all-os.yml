@@ -1,5 +1,5 @@
 name: All OS
-on: [push, pull_request]
+on: [push]
 
 jobs:
   apple-clang:
